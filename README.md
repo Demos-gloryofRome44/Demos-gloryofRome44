@@ -29,7 +29,7 @@
       Programming Languages: Proficient in Python, C++, Java and C#.
       Operating System Fundamentals (Linux): Experienced in Linux command line usage, file system hierarchy, shell scripting, and essential tools.
 - 👨‍💻 Tech Stack: Developing skills in backend development with a focus on Java and C++ integration. Proficient in:
-      Java: Java fundamentals, including clean code practices, database interactions, and SQL. Currently learning Java, focusing on:
+      Java: Java fundamentals, including clean code practices. Currently learning Java, focusing on:
       Object-Oriented Programming (OOP): Familiar with encapsulation, inheritance, polymorphism, and abstraction.
       Collections: Understanding the basics of Java collections, including arrays, lists, and maps.
       C++: Experienced in C++ backend development, including building scalable applications and integrating with Java using tools like JNI, JNA, and Swig.
