@@ -33,4 +33,14 @@
       Object-Oriented Programming (OOP): Familiar with encapsulation, inheritance, polymorphism, and abstraction.
       Collections: Understanding the basics of Java collections, including arrays, lists, and maps.
       C++: Experienced in C++ backend development, including building scalable applications and integrating with Java using tools like JNI, JNA, and Swig.
-- 🏄‍♂️ Qualities: Ambitious individual with a strong passion for growth. 
+- 🏄‍♂️ Qualities: Ambitious individual with a strong passion for growth.
+
+### Languages and tools 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> 
+  <a href="https://www.qt.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width="36" height="36" alt="Qt" /></a>
+</p>
