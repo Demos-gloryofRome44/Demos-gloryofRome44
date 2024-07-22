@@ -6,7 +6,7 @@
 
 <div id="badges" align="center">
   <a href="https://t.me/demos_Rome">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/id675305870">
   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
@@ -18,7 +18,7 @@
 </div>
 
 <h1 align="center">
-  Live long and prosper
+  Hi,  I'm demos
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgxZDVpdXZja21oajZ6NmZrYXRxaDlvdnF1ejVwejYyZ3h6ejVjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r4NmiksbjvMPe/giphy.gif" width="30px"/>
 </h1>
 
