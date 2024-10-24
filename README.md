@@ -2,16 +2,10 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzB6eHY2czNic243OHQzdGFlMnNwYTZucTgxeHFiczdqNHR0a2djMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" class="responsive-gif">
 </div>
 
-
-
 <div id="badges" align="center">
   <a href="https://t.me/demos_Rome">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-</div>
-
-<div id = "viev" align="center">
-<img src="https://komarev.com/ghpvc/?username=Demos-gloryofRome44&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1 align="center">
