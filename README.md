@@ -8,10 +8,7 @@
   </a>
 </div>
 
-<h1 align="center">
-  Hi,  I'm demos
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgxZDVpdXZja21oajZ6NmZrYXRxaDlvdnF1ejVwejYyZ3h6ejVjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r4NmiksbjvMPe/giphy.gif" width="30px"/>
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&multiline=true&random=true&width=1050&height=60&lines=Hi%2C+I'm+demos" alt="Typing SVG" /></a>
 
 ## About me
 - 👨‍🎓 Education:
