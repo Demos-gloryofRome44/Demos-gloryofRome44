@@ -8,9 +8,7 @@
   </a>
 </div>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&multiline=true&random=true&width=1050&height=60&lines=Hi%2C+I'm+demos" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=3000&center=true&multiline=true&random=true&width=1050&height=60&lines=Hi%2C+I'm+demos" alt="Typing SVG" /></a>
 
 ## 🌟 About Me
 - 🎓 Second-year student at **RTU MIREA**, Institute of Artificial Intelligence.
