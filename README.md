@@ -31,6 +31,8 @@
 ### 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demos-gloryofRome44&layout=compact&theme=vision-friendly-dark)](https://github.com/Demos-gloryofRome44/github-readme-stats)
 
+[![Demos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demos-gloryofRome44&theme=vision-friendly-dark)](https://github.com/Demos-gloryofRome44/github-readme-stats)
+
 ---
 
 ### ✨ Let's Connect!
