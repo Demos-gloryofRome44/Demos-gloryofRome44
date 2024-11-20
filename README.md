@@ -35,6 +35,11 @@
 
 ---
 
+### 📈 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/demos-gloryofrome44?theme=dark)
+
+---
+
 ### ✨ Let's Connect!
 Feel free to reach out to me via [Telegram](https://t.me/demos44gl) or check out my projects on GitHub!
 
