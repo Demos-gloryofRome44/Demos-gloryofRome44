@@ -34,3 +34,7 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/></a>
 </p>
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Demos-gloryofRome44&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demos-gloryofRome44&layout=compact&theme=vision-friendly-dark)](https://github.com/Demos-gloryofRome44/github-readme-stats)
