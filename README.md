@@ -1,8 +1,7 @@
 <div align="center">
-
-  ![Твоё имя - Kimi no Na wa аниме цитаты, цитаты из аниме, о жизни, смешные, грустные, про любовь](https://github.com/user-attachments/assets/2eb44ad1-db54-48a3-bc6f-777a7d241783)
-
+    <img src="https://github.com/user-attachments/assets/2eb44ad1-db54-48a3-bc6f-777a7d241783" alt="Твоё имя" style="width: 200%; height: auto;">
 </div>
+
 
 <div align="center">
   <a href="https://t.me/demos44gl">
