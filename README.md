@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzB6eHY2czNic243OHQzdGFlMnNwYTZucTgxeHFiczdqNHR0a2djMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" class="responsive-gif" alt="Animated GIF">
+
+  ![Твоё имя - Kimi no Na wa аниме цитаты, цитаты из аниме, о жизни, смешные, грустные, про любовь](https://github.com/user-attachments/assets/2eb44ad1-db54-48a3-bc6f-777a7d241783)
+
 </div>
 
 <div align="center">
