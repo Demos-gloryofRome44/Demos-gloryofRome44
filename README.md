@@ -30,14 +30,17 @@
 </p>
 
 ### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demos-gloryofRome44&layout=compact&theme=vision-friendly-dark)](https://github.com/Demos-gloryofRome44/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demos-gloryofRome44&layout=compact&theme=react&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a)](https://github.com/Demos-gloryofRome44/github-readme-stats)
 
-[![Demos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demos-gloryofRome44&theme=vision-friendly-dark)](https://github.com/Demos-gloryofRome44/github-readme-stats)
+[![Demos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demos-gloryofRome44&theme=react&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a)](https://github.com/Demos-gloryofRome44/github-readme-stats)
+
+[![Demos's Streak Stats](https://streak-stats.demolab.com/?user=Demos-gloryofRome44&theme=react&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a_border=true)](https://git.io/streak-stats)
 
 ---
 
 ### 📈 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/demos-gloryofrome44?theme=dark)
+
 
 ---
 
