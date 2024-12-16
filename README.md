@@ -16,7 +16,11 @@
 - 💻 Majoring in **Applied Mathematics and Informatics (AMI)**.
 - 🏦 Currently enrolled in **Backend Academy at T Bank**.
 
-### 🛠️ Languages and Tools
+<p>🛠️ Languages and Tools 
+<img src="https://private-user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQzNDIzNjAsIm5iZiI6MTczNDM0MjA2MCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzctZGUwMzgxNzItZTkwMy00OTUxLTkyNmMtNzU1ODc4ZGViMGI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE2VDA5NDEwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZmNDkyNzliZmVkZDU4ZjM2MTZmMDRjMTE1Y2UwYjIzMzBkMWMwMDUwZmMwYmVjOTMxODI2OGQwOGEwNjRlNjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fFI8bY3f1r_QgUGkzkEJSsA4TEZi-JOEpWgTZhgdaFo" alt="Jb" width="2%">
+
+
+    
 <p align="left">
    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
