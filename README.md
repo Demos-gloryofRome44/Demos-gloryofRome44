@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <a href="https://t.me/demos44gl">
+  <a href="https://t.me/egor44dem">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
@@ -80,5 +80,5 @@
 ---
 
 ### ✨ Let's Connect!
-Feel free to reach out to me via [Telegram](https://t.me/demos44gl) or check out my projects on GitHub!
+Feel free to reach out to me via [Telegram](https://t.me/egor44dem) or check out my projects on GitHub!
 
